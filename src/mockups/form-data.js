@@ -1,0 +1,36 @@
+export const form_groups = [
+  {
+    label: "Manufacturing",
+    value: 1,
+  },
+  { value: 2, label: "Construction materials" },
+  { value: 3, label: "Electronics and Optics" },
+  { value: 4, label: "Food and Beverage" },
+  { value: 5, label: "Furniture" },
+  { value: 6, label: "Machinery" },
+  { value: 7, label: "Metalworking" },
+  { value: 8, label: "Plastic and Rubber" },
+  { value: 9, label: "Printing" },
+  { value: 10, label: "Textile and Clothing" },
+  { value: 11, label: "Wood" },
+  {
+    value: 12,
+    label: "Services",
+  },
+  { value: 13, label: "Business services" },
+  { value: 14, label: "Engineering" },
+  {
+    value: 15,
+    label: "Information Technology and Telecommunications",
+  },
+  { value: 16, label: "Tourism" },
+  { value: 17, label: "Translation services" },
+  { value: 18, label: "Transport and Logistics" },
+  {
+    value: 19,
+    label: "Other",
+  },
+  { value: 20, label: "Creative industries" },
+  { value: 21, label: "Energy technology" },
+  { value: 22, label: "Environment" },
+];
